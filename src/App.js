@@ -1,9 +1,10 @@
+import Construction from "./component/construction";
 
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <Construction/>
     </div>
   );
 }
